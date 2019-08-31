@@ -166,4 +166,4 @@ while True:
     except:
         pass
 
-    #Todo: Trennen der Antworten, fehler testing, loopen damit man alle ziehen kann
+   
