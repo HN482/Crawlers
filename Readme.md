@@ -8,8 +8,8 @@ Just download open.py and run it on your local machine.
 
 ### Prerequisites
 
-Python 3.7
-Selenium
-BeautifulSoup
+- Python 3.7
+- Selenium
+- BeautifulSoup
 
 
